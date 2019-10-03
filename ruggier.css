@@ -1,0 +1,39 @@
+a:link		{color: #39f;
+		text-decoration : none}
+a:hover		{color : #06c;
+		background : none }
+a:visited	{color: #39f;
+		text-decoration : none}
+
+#normal a	{ color: #03c}
+
+#normal a:hover {color:white;
+		background : #03c}
+
+#indexlink a:hover	{background : none}
+
+BODY{	background-color: #FFC;
+		}
+
+h1{		color: #39F;
+		font-family: tahoma, verdana, arial, sans-serif;
+		font-size: 16pt;
+		}
+		
+h2{		color: #39F;
+		font-family: tahoma, verdana, arial, sans-serif;
+		font-size: 14pt;
+		}
+		
+P{		color: #39f;
+		font-family: tahoma, verdana, arial, sans-serif;
+		font-size: 11pt;
+		}
+		
+.content{ 	 position: relative;
+		 top: 5px;
+		left: 20px;
+		width: 90%;
+		text-align: inherit;
+		 }
+			

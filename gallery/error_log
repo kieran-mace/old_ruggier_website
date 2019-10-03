@@ -1,0 +1,24 @@
+[Fri Dec 12 09:30:34 2008] [error] [client 72.30.78.247] File does not exist: /home/virtual/site68/fst/var/www/html/gallery/Party-in-Plett-Reunion-2007
+[Fri Dec 12 11:57:25 2008] [error] [client 193.172.132.106] File does not exist: /home/virtual/site68/fst/var/www/html/favicon.ico
+[Fri Dec 12 12:07:12 2008] [error] [client 67.195.37.97] File does not exist: /home/virtual/site68/fst/var/www/html/robots.txt
+[Fri Dec 12 12:39:30 2008] [error] [client 65.55.212.190] File does not exist: /home/virtual/site68/fst/var/www/html/robots.txt
+[Fri Dec 12 14:04:34 2008] [error] [client 77.96.80.123] File does not exist: /home/virtual/site68/fst/var/www/html/favicon.ico
+[Fri Dec 12 14:11:15 2008] [error] [client 66.249.65.49] File does not exist: /home/virtual/site68/fst/var/www/html/robots.txt
+[Fri Dec 12 14:36:32 2008] [error] [client 72.30.142.223] File does not exist: /home/virtual/site68/fst/var/www/html/robots.txt
+[Fri Dec 12 15:25:39 2008] [error] [client 66.249.65.49] PHP Warning:  array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array in /var/www/html/gallery/util.php on line 1153
+[Fri Dec 12 15:25:39 2008] [error] [client 66.249.65.49] PHP Warning:  array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array in /var/www/html/gallery/util.php on line 1154
+[Fri Dec 12 15:25:39 2008] [error] [client 66.249.65.49] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/gallery/util.php on line 1174
+[Fri Dec 12 15:25:39 2008] [error] [client 66.249.65.49] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/gallery/util.php on line 1178
+[Fri Dec 12 15:25:39 2008] [error] [client 66.249.65.49] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/gallery/util.php on line 1201
+[Fri Dec 12 15:25:39 2008] [error] [client 66.249.65.49] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/gallery/util.php on line 1205
+[Fri Dec 12 15:49:45 2008] [error] [client 85.168.26.124] Premature end of script headers: php-script
+[Fri Dec 12 15:50:49 2008] [error] [client 85.168.26.124] Premature end of script headers: php-script
+[Fri Dec 12 15:53:20 2008] [error] [client 66.249.65.49] PHP Warning:  array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array in /var/www/html/gallery/util.php on line 1153
+[Fri Dec 12 15:53:20 2008] [error] [client 66.249.65.49] PHP Warning:  array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array in /var/www/html/gallery/util.php on line 1154
+[Fri Dec 12 15:53:20 2008] [error] [client 66.249.65.49] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/gallery/util.php on line 1174
+[Fri Dec 12 15:53:20 2008] [error] [client 66.249.65.49] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/gallery/util.php on line 1178
+[Fri Dec 12 15:53:20 2008] [error] [client 66.249.65.49] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/gallery/util.php on line 1201
+[Fri Dec 12 15:53:20 2008] [error] [client 66.249.65.49] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/gallery/util.php on line 1205
+[Fri Dec 12 15:55:02 2008] [error] [client 134.146.0.19] File does not exist: /home/virtual/site68/fst/var/www/html/gallery/Our-Ancesters-Forebears, referer: http://www.ruggier.com/gallery/Our-Ancesters-Forebears/suez_2
+[Fri Dec 12 16:21:49 2008] [error] [client 195.171.114.12] File does not exist: /home/virtual/site68/fst/var/www/html/favicon.ico
+[Fri Dec 12 16:24:13 2008] [error] [client 85.168.26.124] Premature end of script headers: php-script
